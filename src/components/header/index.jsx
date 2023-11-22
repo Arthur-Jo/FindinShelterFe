@@ -5,7 +5,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { Outlet } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
-import Footer from '../Footer'
+import Footer from '../footer'
 import { RiAlarmWarningLine } from "react-icons/ri";
 import { memo } from "react";
 function Header(){
